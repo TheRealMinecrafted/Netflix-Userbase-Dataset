@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+## About this site
+Contact:
+strongbalance2020@gmail.com
+Github Repo:
+https://github.com/TheRealMinecrafted/Netflix-Userbase-Dataset
+For Camp:
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info/)

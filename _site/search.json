@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Contact: strongbalance2020@gmail.com Github Repo: https://github.com/TheRealMinecrafted/Netflix-Userbase-Dataset For Camp: Kane’s Free Data Science Bootcamp"
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "About",
+    "section": "",
+    "text": "Contact: strongbalance2020@gmail.com Github Repo: https://github.com/TheRealMinecrafted/Netflix-Userbase-Dataset For Camp: Kane’s Free Data Science Bootcamp"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Netflix Userbase Dataset",
+    "section": "",
+    "text": "(INTRO)This dataset provides insights into Netflix’s userbase, including subscription types, revenue, and user activity. Each row represents a unique user, identified by their User ID. The dataset includes information such as the user’s subscription type (Basic, Standard, or Premium), the monthly revenue generated from their subscription, the date they joined Netflix (Join Date), the date of their last payment (Last Payment Date), and the country in which they are located. (COOL FACT TAKE IT AWAY WITH) It can be used for analysis and modeling to understand user trends, preferences, and revenue generation within a hypothetical Netflix userbase."
+  }
+]

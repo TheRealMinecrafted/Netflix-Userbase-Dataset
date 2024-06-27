@@ -1,0 +1,4 @@
+---
+title: "Netflix Userbase Dataset"
+---
+This dataset provides insights into Netflix's userbase, including subscription types, revenue, and user activity. Each row represents a unique user, identified by their User ID. The dataset includes information such as the user's subscription type (Basic, Standard, or Premium), the monthly revenue generated from their subscription, the date they joined Netflix (Join Date), the date of their last payment (Last Payment Date), and the country in which they are located. Analyzing this data helps Netflix understand user behavior and optimize content recommendations, server load management, and marketing strategies accordingly. 
